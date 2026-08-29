@@ -6,36 +6,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redisson-B82025?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 </div>
 
@@ -51,8 +26,8 @@
 
 #### 담당 역할
 
-- 가족방·초대 토큰·주간 식단 도메인 설계
-- Gemini API 기반 AI 식단 생성 파이프라인 설계
+- 가족방·초대 토큰·주간 식단 도메인 개발
+- Gemini API 기반 AI 식단 생성 파이프라인 구축
 - AI 응답 검증 및 실패 대응 fallback 구현
 - k6 기반 성능 측정과 병목 분석
 
@@ -67,7 +42,7 @@
 
 ### ♻️ [ReDO](https://github.com/REDO-Team/Back)
 
-> 분리배출 정보를 쉽고 빠르게 제공하고, 실천에 대한 보상을 통해 사용자의 행동을 유도하는 서비스
+> 분리배출은 쉽게, 실천은 보상으로 이어져 환경 보호를 일상의 습관으로 만드는 서비스
 
 **2026.06.29 – 2026.08.21 · Backend · Infrastructure · Monitoring**
 
@@ -89,7 +64,8 @@
 
 ### ✈️ [QUESPOT](https://github.com/Quespot/BE)
 
-> **In Progress**
+> 전국 방방곡곡, 미션으로 떠나는 관광 서비스
+- **In Progress**
 
 ---
 
@@ -155,12 +131,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=woo6629058&show_icons=true&title_color=00ff88&text_color=ffffff&icon_color=00ff88&bg_color=0d1117&border_color=30363d"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=woo6629058&theme=dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=30363D"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo6629058&layout=compact&title_color=00ff88&text_color=ffffff&bg_color=0d1117&border_color=30363d"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=woo6629058&show_icons=true&theme=dark"/>
+<img height="170" src="https://streak-stats.demolab.com?user=woo6629058&theme=dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=30363D"/>
 
 </div>
 
@@ -170,15 +142,9 @@
 
 <div align="center">
 
-<a href="mailto:woo6629058@catholic.ac.kr">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@dev_geonwoo">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-<a href="https://github.com/woo6629058">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:woo6629058@catholic.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@dev_geonwoo"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://github.com/woo6629058"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
