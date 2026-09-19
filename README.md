@@ -1,10 +1,10 @@
 ## Geonwoo Heo
 
 ### Activities.
-- `2026.09 -` IT 연합 사이드 프로젝트 동아리 [UMC 11기](https://github.com/UMC-CUK-11th) · Product Engineering 파트 (운영진 & 스터디장)
-- `2026.03 - 2026.08` IT 연합 사이드 프로젝트 동아리 [UMC 10기](https://github.com/UMC-CUK-10th) · Spring Boot 파트 (스터디장 & 프로젝트 팀장)
+- `2026.09 -` 대학생 IT 연합 사이드 프로젝트 동아리 [UMC 11기](https://github.com/UMC-CUK-11th) · Product Engineering 파트 (운영진 & 스터디장)
+- `2026.03 - 2026.08` 대학생 IT 연합 사이드 프로젝트 동아리 [UMC 10기](https://github.com/UMC-CUK-10th) · Spring Boot 파트 (스터디장 & 프로젝트 팀장)
 - `2026.03 - 2026.06` GDG on Campus CUK 6기 · Spring Boot 기반 프로젝트 스터디
-- `2025.09 - 2026.02` IT 연합 사이드 프로젝트 동아리 [UMC 9기](https://github.com/UMC-CUK-9th) · Spring Boot 파트
+- `2025.09 - 2026.02` 대학생 IT 연합 사이드 프로젝트 동아리 [UMC 9기](https://github.com/UMC-CUK-9th) · Spring Boot 파트
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 > 알레르기와 식습관이 서로 다른 가족을 위한 AI 기반 맞춤형 식단 관리 서비스
 
-**2025.12.22 – 2026.02.12 · Backend**
+**2025.12 – 2026.02 · Backend**
 
 ##### 담당 역할
 
@@ -50,7 +50,7 @@
 
 > 분리배출은 쉽게, 실천은 보상으로 이어져 환경 보호를 일상의 습관으로 만드는 서비스
 
-**2026.06.29 – 2026.08.21 · Backend · Infrastructure · Monitoring**
+**2026.06 – 2026.08 · Backend · Infrastructure · Monitoring**
 
 ##### 담당 역할
 
